@@ -1,4 +1,5 @@
-<h3 align="center">A passionate Web Developer from the United States</h3>
+<h3 align="center">Welcome to my GitHub! I'm a Web Developer, about to graduate with a Bachelor's in Internet and Web Development from Arizona State University. I’m passionate about building innovative, seamless, and aesthetically pleasing websites.
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
